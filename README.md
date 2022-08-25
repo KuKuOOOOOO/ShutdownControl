@@ -15,14 +15,14 @@ $ git clone https://github.com/KuKuOOOOOO/ShutdownControl
 將專案clone至Windows
 
 ```
-$ ..\UserInternetMAC\UserInternetMAC\bin\Debug\ShutdownControl.exe
+$ ..ShutdownControl\ShutdownControl\bin\Debug\ShutdownControl.exe
 ```
 進入路徑點選ShutdownControl.exe
 
 ## 執行畫面
 
 ![image](https://github.com/KuKuOOOOOO/ShutdownControl/blob/main/Demo1.JPG)  
-Time Start: 按下即可開始計數關機時間，預設為1hr
+Time Start: 按下即可開始計數關機時間，延遲時間為ComboBox所設定之時間
 
 ![image](https://github.com/KuKuOOOOOO/ShutdownControl/blob/main/Demo2.jpg)  
 關閉時會縮小至工具列
