@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+VisualStudioVersion = 15.0.28307.1684
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutdownControl", "ShutdownControl\ShutdownControl.csproj", "{E8CB0DAB-0303-4F55-8802-B2A082E683BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutdownControl", "ShutdownControl\ShutdownControl.csproj", "{CB0D25DB-A649-4E33-895E-40512B46285F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E8CB0DAB-0303-4F55-8802-B2A082E683BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8CB0DAB-0303-4F55-8802-B2A082E683BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8CB0DAB-0303-4F55-8802-B2A082E683BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8CB0DAB-0303-4F55-8802-B2A082E683BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0D25DB-A649-4E33-895E-40512B46285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0D25DB-A649-4E33-895E-40512B46285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0D25DB-A649-4E33-895E-40512B46285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0D25DB-A649-4E33-895E-40512B46285F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AB48ED1-AD37-45D7-8EEE-6049657E14FD}
+		SolutionGuid = {7B9204B0-D6F0-4ED2-A993-DC316E30266C}
 	EndGlobalSection
 EndGlobal
